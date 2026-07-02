@@ -83,5 +83,3 @@ Cloud Computing
 ## Author
 
 **Rishika Goyal**
-
-Developed as part of the **DecodeLabs Artificial Intelligence Internship – Project 3**.
